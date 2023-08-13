@@ -8,6 +8,7 @@ Bu proje, geliştirici alımı için oluşturulmuş bir taslak projedir. Gelişt
 - Genel puanlama(puanlama yapılmamış ise "Değerlendirilmemiş" olarak yazması gerekmektedir.)
 - Detaylı misafir puanlaması(puanlama yapılmamış ise "Değerlendirilmemiş" olarak yazması gerekmektedir.)
 - Yoruma verilen yanıt(yanıt verilmemiş ise "Yanıtlanmamış" olarak yazması gerekmektedir.)
+
 gibi verilerin çekilmesi beklenmektedir.
 #
 # Dil ve kullanılacak araç ve kütüphaneler
